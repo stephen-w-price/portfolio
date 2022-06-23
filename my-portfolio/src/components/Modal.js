@@ -21,7 +21,7 @@ export default function Modal({ handleClose }) {
           </div>
             
           <div>
-            <a href="https://wilco-memory-game.herokuapp.com/">
+            <a href="https://wilco-memory-matching-game.herokuapp.com/">
               <h4>Wilco Memory Match</h4>
               <img alt="Wilco Memory Match" className="project-img" src="images/wilco.png"></img>
             </a>
